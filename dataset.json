@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Alabama, US",
+  "export_job_id": "9e65420c-0ae3-4ead-b4fd-2215906c75a0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 652552,
+  "location_name": "Alabama",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-alabama-us-sample-652552",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/652552/beamstation_652552_restaurants-us-al_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 5,
+  "sample_sha256": "7d2268b59dcecc2918e036bb9a41c3691a393a4d0f72c6a76cefb450a3d81703",
+  "sample_size_bytes": 39100,
+  "total_records": 50,
+  "updated_at": "2026-04-08T01:09:44.019238+00:00"
+}
