@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9e65420c-0ae3-4ead-b4fd-2215906c75a0",
+  "export_job_id": "3294a516-406c-47bd-ac36-352ae17e5367",
   "id_short": 652552,
-  "published_at": "2026-04-13T07:18:02Z",
+  "published_at": "2026-04-18T19:37:22Z",
   "repo_name": "top-50-restaurant-category-dominators-in-alabama-us-sample-652552",
   "sample_asset_name": "beamstation_652552_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/652552/beamstation_652552_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "7d2268b59dcecc2918e036bb9a41c3691a393a4d0f72c6a76cefb450a3d81703",
-  "sample_size_bytes": 39100,
-  "total_records": 50
+  "sample_records": 4,
+  "sample_sha256": "7e8151f8886230d1b7de9f376551fbc41328a3e7bc2a7625e0c12035a0d1f775",
+  "sample_size_bytes": 35009,
+  "total_records": 46
 }
