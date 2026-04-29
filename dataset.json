@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Alabama, US",
-  "export_job_id": "7a758340-ffd3-410a-9e53-e6b38d2c136d",
+  "export_job_id": "b0c497e2-285f-4edf-964c-ae35137fdf2f",
   "github_org": "Beamstation-Datasets",
   "id_short": 652552,
   "location_name": "Alabama",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-alabama-us-sample-652552",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/652552/beamstation_652552_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_pct": 9.43,
+  "sample_pct": 8.62,
   "sample_records": 5,
-  "sample_sha256": "2cb0ac2905eb939b9227e61c0f55ec91990972cfbc6a36a13ad3844e1f455992",
-  "sample_size_bytes": 39182,
-  "total_records": 53,
-  "updated_at": "2026-04-22T12:56:47.406883+00:00"
+  "sample_sha256": "c2e8720ae88ada4b7c5444d83cb83666a1e6323e7fc63d682c0e236ee79d41fe",
+  "sample_size_bytes": 37385,
+  "total_records": 58,
+  "updated_at": "2026-04-29T13:47:58.123441+00:00"
 }
