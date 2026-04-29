@@ -9,9 +9,9 @@
 | Dataset ID | `652552` |
 | Location | Alabama |
 | Category | Restaurants |
-| Full dataset size | 53 records |
-| Free sample size | 5 records (9.43%) |
-| Last export | 2026-04-22T12:56:47.406883+00:00 |
+| Full dataset size | 58 records |
+| Free sample size | 5 records (8.62%) |
+| Last export | 2026-04-29T13:47:58.123441+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-alabama-us-sample-652552/releases/download/sample-latest/beamstation_652552_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
